@@ -1,0 +1,13 @@
+{
+  "name": "qatw-primeira-edicao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ariadnebernardo/qatw-primeira-edicao.git",
+  "author": "Ariadne Bernardo <ariadne.bernardoqa@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.3"
+  },
+  "scripts": {}
+}
